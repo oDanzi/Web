@@ -1,0 +1,340 @@
+#wrapper {
+	background-image:url("../images/background2.jpg");
+	padding:10px;
+	border-radius:16px;
+	width:1860px;
+	height:1190px
+}
+
+#wrapper2 {
+	background-image:url("../images/background3.jpg");
+	padding:10px;
+	border-radius:16px;
+	width:1860px;
+	height:1190px
+	background-position: 50% 50%;
+    background-size:     cover;
+	overflow: hidden;
+	
+}
+
+#wrapper3 {
+	background-image:url("../images/background5.jpg");
+	padding:10px;
+	border-radius:16px;
+	width:1860px;
+	height:1190px
+	background-position: 50% 50%;
+    background-size:     cover;
+	overflow: hidden;
+	
+}
+
+#wrapper4 {
+	background-image:url("../images/background4.jpg") ;
+	padding:10px;
+	border-radius:16px;
+	width:1860px;
+	height:1190px
+	background-position: 50% 50%;
+    background-size:     cover;
+	overflow: hidden;
+	
+}
+
+#wrapper5 {
+	background-image:url("../images/background6.jpg");
+	padding:10px;
+	border-radius:16px;
+	width:1860px;
+	height:1190px
+	background-position: 50% 50%;
+    background-size:     cover;
+	overflow: hidden;
+	
+}
+
+
+header {
+	padding:10px;
+	border-radius:16px;
+	font-size:75px;
+	color:white;
+	font-family:Century Gothic;
+}
+
+nav {
+	
+	padding:10px;
+	border-radius:16px;
+	font-size:26px;
+	font-family:Century Gothic;
+	width:1800px;
+	color:white;
+	position:fixed;
+	top: 0;
+	
+}
+
+#mySlides
+{
+	width:700px;
+	position: relative;
+    height:400px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+	overflow: hidden;
+	float:right;
+	
+}
+
+
+
+
+.slideshow.button
+{
+	width:45px;
+	height:45px;
+	border-radius:20px;
+	background-color:#333;
+	display:inline-block;
+	padding:5px;
+	color:white;
+	float:right;
+}
+
+a {
+	
+	color:white;
+	text-decoration:none;
+}
+
+a:hover {
+	background-image: url("../images/metal.jpg");
+	color:white;
+	
+}
+
+section {
+	padding:10px;
+	border-radius:16px;
+	font-size:20px;
+	color:black;
+	height:850px;
+	width:1800px;
+	float:left;
+	
+}
+
+#bikeif {
+	padding:10px;
+	border-radius:16px;
+	font-size:20px;
+	color:black;
+	height:500px;
+	width:800px;
+	float:left;
+	color:white;
+	
+}
+
+
+
+
+#content {
+	padding:10px;
+	
+}
+
+article {
+	
+	padding:10px;
+	border-radius:16px;
+	font-size:20px;
+	color:white;
+	height:200px;
+	width:1780px;
+	font-family:Century Gothic;
+}
+
+#basket{
+	float:right;
+	height:30px;"
+	width:30px;
+}
+
+#container {
+	height:700px;
+	border:1px solid #ddd;
+	border-radius:5px;
+}
+
+#contact-form {
+	width:200px;
+	height:100px;
+}
+
+#map {
+float:right;
+}
+
+.selector.button
+{
+	font-size:14pt;
+	font-family:"Arial", sans-serif;
+	margin:0px auto;
+	display:block;
+	min-width:150px;
+	margin-top:10px;
+}
+
+button
+{
+	border:none;
+	background-color:#eee;
+	padding:10px;
+	border-radius:2px;
+	cursor:pointer;
+}
+
+#selector-box
+{
+	margin:0px auto;
+	display:block;
+	margin-top:50px;
+	text-align:center;
+	border-radius:2px;
+	padding:5px;
+	border:1px solid #ddd;
+	width:250px;
+	font-family:monospace;
+}
+
+#Opening
+{
+	color:white;
+	font-family:Century Gothic;
+	float:left;
+	font-size:20px;
+}
+
+#Contact
+{
+	color:white;
+	font-family:Century Gothic;
+	float:left;
+	font-size:20px;
+}
+
+
+
+
+
+.row > img
+{
+	vertical-align:middle;
+}
+.row
+{
+	margin:0px auto;
+	text-align:center;
+}
+
+button:hover
+{
+	opacity:0.8;
+}
+
+.row
+{
+	position:relative;
+}
+
+.head.row
+{
+	z-index:3;
+}
+
+.torso.row
+{
+	/* margin-top:-125px; */
+	top:-130px;
+	z-index:4;
+	
+	
+}
+
+.legs.row > img
+{
+	width:567px;
+	
+}
+
+.legs.row
+{
+	/* margin-top:-60px; */
+	top:-200px;
+	z-index:1;
+	
+}
+
+#selector-box
+{
+	margin:0px auto;
+	display:block;
+	margin-top:50px;
+	text-align:center;
+	border-radius:2px;
+	padding:5px;
+	border:1px solid #ddd;
+	width:250px;
+	font-family:monospace;
+	float:right;
+	
+}
+
+.container
+{
+	height:700px;
+	border:1px solid #ddd;
+	border-radius:5px;
+}
+
+.selector.button
+{
+	font-size:14pt;
+	font-family:"Arial", sans-serif;
+	margin:0px auto;
+	display:block;
+	min-width:150px;
+	margin-top:10px;
+	float:right;
+}
+
+button
+{
+	border:none;
+	background-color:#eee;
+	padding:10px;
+	border-radius:2px;
+	cursor:pointer;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
